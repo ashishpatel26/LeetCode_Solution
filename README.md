@@ -5,7 +5,7 @@ LeetCode: https://leetcode.com/problemset/all/
 
 | #    | Title                                                        | Difficulty | Colab Code                                                   |
 | ---- | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
-| 1    | [Two Sum](https://leetcode.com/problems/two-sum)             | Easy       | [![Open In    Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges) |
+| 1    | [Two Sum](https://leetcode.com/problems/two-sum)             | Easy       | [![Open In    Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/LeetCode_Solution/blob/main/0001.%20Sum%20of%20Two%20Numbers.ipynb) |
 | 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | Medium     | [![Open In  Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges) |
 | 3    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Medium     | [![Open In  Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges) |
 | 4    | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | Hard       | [![Open In    Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges) |
